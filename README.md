@@ -54,7 +54,13 @@ pip install pygame
 
 ## Screenshots
 
-![Game Screenshot](assets/img1.png)
+![Game Screenshot](assets/start.png)
+*Example gameplay screenshot.*
+
+![Game Screenshot](assets/playing.png)
+*Example gameplay screenshot.*
+
+![Game Screenshot](assets/over.png)
 *Example gameplay screenshot.*
 
 ## Controls
