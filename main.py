@@ -1,6 +1,5 @@
 import pygame
 import random
-
 pygame.init()
 
 #colours
